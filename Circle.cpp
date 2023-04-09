@@ -2,22 +2,12 @@
 using namespace std;
 class Circle
 {
-
     private:
-
        float radius;
-      
-
     public:
-
-        //float radius;
-
-        void setRadius(float r)//setter method-inline functions
-
+        void setRadius(float r)
         {
-
             radius=r;
-
         }
 
         float getRadius()//getter method
